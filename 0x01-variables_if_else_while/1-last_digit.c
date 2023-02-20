@@ -12,7 +12,7 @@ int n;
 
 srand(time(0));
 n = rand() - RAND_MAX / 2;
-x = n % 10
+ x = n % 10;
 printf("last digit of %d is %d", n, x);
 if (x > 5)
 {
