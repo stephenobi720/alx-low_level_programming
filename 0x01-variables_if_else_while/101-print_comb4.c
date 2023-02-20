@@ -30,7 +30,7 @@ if (c + d + e != 9 + 8 + 7)
 putchar(',');
 putchar(' ');
 }
-
+}
 c++;
 }
 d++;
