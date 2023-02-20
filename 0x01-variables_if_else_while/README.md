@@ -1,0 +1,1 @@
+This is a c programming showing how if, else and while statement work 
