@@ -1,0 +1,1 @@
+To understand how debugging works and to debug programs
