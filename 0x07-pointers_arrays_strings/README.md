@@ -1,0 +1,1 @@
+This is a readme for even more pointers and the solution to the code
